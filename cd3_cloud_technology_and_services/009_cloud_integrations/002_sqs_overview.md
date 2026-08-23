@@ -1,5 +1,7 @@
 **Amazon SQS - Simple Queue Service**
 
+(It uses `pull-based` system)
+
 **Amazon SQS - Standard Queue**
 
 - Oldest AWS offering (over 10 years old);
