@@ -1,0 +1,17 @@
+**AWS Security Hub**
+
+- Central security tool to manage security accross several AWS accounts and automate security checks;
+- Integrated dashboards showing current security and compliance status to quickly take actions;
+- Automatically aggregates alerts in predefined or personal findings formats from various AWS services & AWS partner tools:
+  - Config;
+  - GuardDuty;
+  - Inspector;
+  - Macie;
+  - IAM Access Analyzer;
+  - AWS Systems Manager;
+  - AWS Firewall Manager;
+  - AWS Health;
+  - AWS Partner Network Solutions;
+- Must first enable the AWS Config Service;
+
+---
