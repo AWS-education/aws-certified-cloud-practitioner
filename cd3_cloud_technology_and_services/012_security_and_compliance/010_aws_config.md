@@ -2,7 +2,7 @@
 
 - Helps with _auditing and recording compliance of your AWS resources_;
 - Helps record configurations and changes over time;
-- Possibility of storing the configuration data into S3 (analyzed vy Athena);
+- Possibility of storing the configuration data into S3 (analyzed by Athena);
 - Questions that can be solved by AWS Config:
   - Is there unrestricated SSH access to my security groups?;
   - Do my buckets have any public access?

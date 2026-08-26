@@ -8,9 +8,9 @@
 
 - **AWS Shield Standard**: protects against DDoS attack for your website and applications, for all customers at no additional cost;
 - **AWS Shield Advanced**: 24/7 premium DDoS protection;
-- **AWS WAF**: Filter specific requetss based on rules;
+- **AWS WAF**: Filter specific requets based on rules;
 - CloudFront and Route 53;
-- Be ready ready to scale - leverage _AWS Auto Scaling_;
+- Be ready to scale - leverage _AWS Auto Scaling_;
 
 ---
 
