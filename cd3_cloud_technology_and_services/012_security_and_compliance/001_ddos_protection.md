@@ -29,7 +29,7 @@
 
 **AWS WAF - Web Application Firewall**
 
-- Protects your web applicstions from common web explots (Layer 7);
+- Protects your web applications from common web exploits (Layer 7);
 - Layer 7 is HTTP (vs Layer 4 is TCP);
 - Deploy on Application Load Balancer, API Gateway, CloudFront;
 - Define Web ACL (Web Access Control List):
